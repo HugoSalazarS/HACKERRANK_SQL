@@ -5,4 +5,4 @@ Query the Name of any student in STUDENTS who scored higher than  Marks. Order y
 SELECT Name
 FROM STUDENTS
 WHERE Marks > 75
-ORDER BY RIGHT(NAME, 3), ID;
+ORDER BY RIGHT(NAME, 3), ID;    
